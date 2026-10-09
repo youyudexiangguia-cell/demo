@@ -19,9 +19,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-
-# py--version 3.6.8
-# 访问静态网页
-# 1. first app下新建static文件夹
-# 2. 访问public_static
